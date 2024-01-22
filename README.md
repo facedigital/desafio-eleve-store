@@ -3,7 +3,7 @@
 **Cliente:** Eleve Store
 
 ## Sobre a Empresa e Projeto
-A TechGadget Store, uma loja de tecnologia inovadora, está buscando desenvolver uma aplicação web para melhorar a experiência de compra de seus clientes. Eles desejam uma integração com a API pública [Lista de Produtos - DummyJson](https://dummyjson.com/products), que fornece informações sobre uma variedade de produtos tecnológicos. O projeto inicialmente será uma aplicação web, mas deve ser construído com a possibilidade de expansão para um aplicativo móvel no futuro.
+A Eleve Store, uma loja de tecnologia inovadora, está buscando desenvolver uma aplicação web para melhorar a experiência de compra de seus clientes. Eles desejam uma integração com a API pública [Lista de Produtos - DummyJson](https://dummyjson.com/products), que fornece informações sobre uma variedade de produtos tecnológicos. O projeto inicialmente será uma aplicação web, mas deve ser construído com a possibilidade de expansão para um aplicativo móvel no futuro.
 
 ## Funcionalidades Principais
 1. **Listagem de Produtos em Destaque:**
